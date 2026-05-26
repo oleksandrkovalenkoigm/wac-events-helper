@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git commit *)",
+      "Bash(awk '{print $2}')",
+      "Bash(xargs -I{} sh -c 'cat \"{}\" 2>/dev/null')",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
