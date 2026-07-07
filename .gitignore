@@ -21,3 +21,7 @@ yarn-error.log
 # Claude Code
 .claude/
 .claude/settings.local.json
+package.json
+package-lock.json
+eslint.config.js
+.eslintrc.json
